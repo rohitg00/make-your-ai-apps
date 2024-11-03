@@ -44,14 +44,14 @@ A powerful platform for building and deploying cross-platform applications with 
 
 ## Project Structure
 lib/
-├── server/ # Local development server
-├── webcontainer/ # Browser-based development environment
-├── platforms/ # Platform-specific generators
-├── project/ # Project management and iteration
-├── designer/ # Design system generation
-├── deploy/ # Deployment utilities
-├── export/ # Project export utilities
-└── rag/ # RAG system for icons
+├── server/          # Local development server
+├── webcontainer/    # Browser-based development environment
+├── platforms/       # Platform-specific generators
+├── project/         # Project management and iteration
+├── designer/        # Design system generation
+├── deploy/          # Deployment utilities
+├── export/          # Project export utilities
+└── rag/             # RAG system for icons
 
 ## Contributing
 
