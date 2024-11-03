@@ -43,7 +43,7 @@ A powerful platform for building and deploying cross-platform applications with 
 3. Access the application in your browser at `http://localhost:3000`
 
 ## Project Structure
-ib/
+lib/
 ├── server/ # Local development server
 ├── webcontainer/ # Browser-based development environment
 ├── platforms/ # Platform-specific generators
