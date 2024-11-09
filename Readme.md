@@ -42,17 +42,6 @@ A powerful platform for building and deploying cross-platform applications with 
 2. Start the development server: `npm run dev`
 3. Access the application in your browser at `http://localhost:3000`
 
-## Project Structure
-lib/
-├── server/          # Local development server
-├── webcontainer/    # Browser-based development environment
-├── platforms/       # Platform-specific generators
-├── project/         # Project management and iteration
-├── designer/        # Design system generation
-├── deploy/          # Deployment utilities
-├── export/          # Project export utilities
-└── rag/             # RAG system for icons
-
 ## Contributing
 
 We welcome contributions to enhance the platform's capabilities and fix any issues you encounter. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit improvements and bug fixes.
