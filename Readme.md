@@ -45,7 +45,3 @@ A powerful platform for building and deploying cross-platform applications with 
 ## Contributing
 
 We welcome contributions to enhance the platform's capabilities and fix any issues you encounter. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit improvements and bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
